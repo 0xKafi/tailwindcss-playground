@@ -7,7 +7,7 @@ const LandingPage = () => {
             <p className='text-white/80 max-w-xl mx-auto text-center mt-6'>Say goodbye to the outdated financial tools. Every small business owner, regardless of the background, can now manage their business like a pro. Simple. Intuitive. And never boring.</p>
 
             <div className='w-full flex items-center justify-center mt-6'>
-                <button className='relative group text-white/60 border-neutral-800 border px-4 py-1 rounded-full cursor-pointer hover:shadow-[0_3px_10px_rgb(240,68,68,0.5)] transition duration-400'>
+                <button className='relative group text-white/60 border-neutral-800 border px-4 py-1 rounded-full cursor-pointer hover:shadow-[0_0_15px_rgb(240,68,68,0.5)] transition duration-400'>
                 <div className='absolute w-[80%] mx-auto h-px inset-x-0 -bottom-px bg-linear-to-r from-neutral-800 via-sky-400 to-neutral-800 group-hover:bg-linear-to-r group-hover:from-neutral-800 group-hover:via-red-600 group-hover:to-neutral-800 transition duration-400'></div>
                 <div className='absolute w-[80%] mx-auto h-px inset-x-0 -top-px bg-linear-to-r from-neutral-800 via-sky-400 to-neutral-800 group-hover:bg-linear-to-r group-hover:from-neutral-800 group-hover:via-red-600 group-hover:to-neutral-800 transition duration-400'></div>
                 Join the waitlist</button>
